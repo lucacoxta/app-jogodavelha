@@ -22,8 +22,5 @@ Este é um simples jogo da velha (tic-tac-toe) desenvolvido utilizando Flutter. 
 
 Para rodar este projeto, você precisa ter o [Flutter](https://flutter.dev) instalado no seu sistema.
 
-## Como Rodar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/jogo_da_velha.git
+link de acesso ao jogo:
+https://lucacoxta.github.io/alunotalentotech./app-jogodavelha/
