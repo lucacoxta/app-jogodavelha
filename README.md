@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Atividade 4 - Programa Jogo da velha na WEB
 
 Este é um simples jogo da velha (tic-tac-toe) desenvolvido utilizando Flutter. O jogo oferece a opção de jogar contra outra pessoa ou contra o computador, com um sistema simples de alternância entre os jogadores.
 
